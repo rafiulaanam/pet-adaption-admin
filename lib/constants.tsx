@@ -23,6 +23,11 @@ export const navLinks = [
     label: "Products",
   },
   {
+    url: "/adaption-request",
+    icon: <ShoppingBag />,
+    label: "Adaption Request",
+  },
+  {
     url: "/orders",
     icon: <ShoppingBag />,
     label: "Orders",
